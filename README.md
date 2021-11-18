@@ -5,9 +5,9 @@
 
 - 🏛 My research topics include: **Planar Periodic Surfaces & Numerical Methods**
 
-- 👨‍💻 My Open Source contributions are available in: [github.com/nandoconde](github.com/nandoconde)
+- 👨‍💻 My Open Source contributions are available in [GitHub](github.com/nandoconde)
 
-- 📝 I have published papers on [https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8)
+- 📝 I have published papers on [IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
