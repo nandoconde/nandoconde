@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando Conde-Pumpido</h1>
 <h3 align="center">A Telecommunications Engineer specialized in Signals and Systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandoconde" alt="nandoconde" /></a> </p>
-
 - 🔭 I’m currently working on **RF systems**
 
 - 🏛 My research topics include: **Planar Periodic Surfaces & Numerical Methods**
