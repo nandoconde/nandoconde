@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Conde-Pumpido</h1>
-<h3 align="center">A Telecommunications Engineer specialized in Signals and Systems</h3>
+<h3 align="center">Telecommunications Engineer specialized in Signals and Systems</h3>
 
-- 🔭 I’m currently working on **RF systems**
-
-- 🏛 My research topics include: **Planar Periodic Surfaces & Numerical Methods**
+- 🔭 I’m currently working on **GNSS receiver systems**
 
 - 👨‍💻 My *open source* contributions are available in [GitHub](github.com/nandoconde)
 
